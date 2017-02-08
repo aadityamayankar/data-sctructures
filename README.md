@@ -7,6 +7,6 @@ https://www.youtube.com/playlist?list=PLEZfD_aygfgKqUvNVLV90Lfw3mL_o30Us
 
 Stack https://www.youtube.com/watch?v=lriEug1abOY
 
-Queue
+Queue https://www.youtube.com/watch?v=7dCvaDkSoTI
 
-Linked List
+Linked List https://www.youtube.com/watch?v=UlhnLqk0xqQ
