@@ -10,3 +10,11 @@ Stack https://www.youtube.com/watch?v=lriEug1abOY
 Queue https://www.youtube.com/watch?v=7dCvaDkSoTI
 
 Linked List https://www.youtube.com/watch?v=UlhnLqk0xqQ
+
+Hash Table
+
+Graph
+
+Tree
+
+Binary Search Tree
