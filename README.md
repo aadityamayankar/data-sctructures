@@ -11,7 +11,7 @@ Queue https://www.youtube.com/watch?v=7dCvaDkSoTI
 
 Linked List https://www.youtube.com/watch?v=UlhnLqk0xqQ
 
-Hash Table
+Hash Table https://www.youtube.com/watch?v=W3u6FUpYLvI
 
 Graph
 
