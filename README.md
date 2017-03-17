@@ -13,7 +13,7 @@ Linked List https://www.youtube.com/watch?v=UlhnLqk0xqQ
 
 Hash Table https://www.youtube.com/watch?v=W3u6FUpYLvI
 
-Graph
+Graph https://www.youtube.com/watch?v=9z5Y-bCrle8
 
 Tree
 
