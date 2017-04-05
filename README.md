@@ -17,4 +17,4 @@ Graph: https://www.youtube.com/watch?v=9z5Y-bCrle8
 
 Tree: https://www.youtube.com/watch?v=0OkHnESpt1k
 
-Binary Search Tree: in progress...
+Binary Search Tree: https://www.youtube.com/watch?v=eo9wzwnhT2s
